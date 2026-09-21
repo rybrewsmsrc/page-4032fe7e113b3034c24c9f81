@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "23c3b276b877416a4d602f8d",
+  "owner": "rybrewsmsrc",
+  "repo": "page-4032fe7e113b3034c24c9f81",
+  "title": "果园吧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4032fe7e113b3034c24c9f81",
+      "a": "果园吧",
+      "b": "2027最新官网",
+      "entity": "果园吧",
+      "brand": "果园吧",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "307dcdcbdf2c8922081e8238cfe3316d57923e597e976712307b3b0d2d51753a",
+      "content": {
+        "primary_entity": "果园吧",
+        "keyword1": "果园吧",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_HERO_SUBTITLE": "多设备订阅的稳定加速选择",
+          "AI_HERO_INTRO": "果园吧提供面向海外访问的订阅式加速服务，套餐覆盖个人与团队设备规模，按流量与在线设备数区分版本，可依客户端文档完成订阅导入。",
+          "AI_VISUAL_TITLE": "果园吧加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_2": "年付方案更省月度开支",
+          "AI_HIGHLIGHT_3": "支持流媒体与游戏专线",
+          "AI_DESCRIPTION": "，果园吧把订阅套餐按流量、设备数量与节点类型分层，基础版适合手机加电脑的个人日常使用，旗舰版增加专线游戏优化与优先支持，团队版面向二十台设备以内的小型团队。选择时先确认常用设备数量与每月流量需求，再对照套餐权益与年付价格，最后依客户端文档导入订阅地址即可使用。",
+          "AI_FEATURES_TITLE": "订阅前的三项确认",
+          "AI_FEATURES_INTRO": "先理清设备、流量与周期，再决定版本更省心。",
+          "AI_FEATURE_TITLE_1": "设备数量先估算",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台，按日常手机、平板与电脑总数选档。",
+          "AI_FEATURE_TITLE_2": "流量按习惯匹配",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，长视频与云盘同步频繁时选更高一档。",
+          "AI_FEATURE_TITLE_3": "周期决定单价",
+          "AI_FEATURE_TEXT_3": "旗舰版按月 ¥35，按年付 ¥350/年，相当于把月度支出压到约 ¥29。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，导入前请先确认设备适配要求。",
+          "AI_PLANS_TITLE": "套餐对照",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上逐步升级，年付方案统一低于按月累计价格。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到能上网，按顺序完成即可。",
+          "AI_STEP_TITLE_1": "选定套餐版本",
+          "AI_STEP_TEXT_1": "对照设备数量与每月流量，在基础版、旗舰版与团队版中选择一档，年付可减少长期支出。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所用系统与设备型号是否在支持范围内，确认在线设备数不超过所选版本上限。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在对应客户端中新增订阅，粘贴服务方提供的订阅地址并更新节点，即可开始连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐即可开始",
+          "AI_CLOSING_TEXT": "对照设备与流量选一档果园吧套餐，按客户端文档导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台，按家庭或个人常用终端数量选即可。",
+          "AI_FAQ_ANSWER_2": "可以。月付适合短期体验，年付如基础版 ¥150/年、旗舰版 ¥350/年，折算下来更划算，但请根据实际使用周期决定。",
+          "AI_FAQ_ANSWER_3": "月流量分别为 100GB、300GB 和 1000GB。日常浏览与视频用基础版够用，频繁看高清内容选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "订阅导入方式因客户端而异，常见工具都支持复制订阅链接或扫描二维码配置，具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版带有 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点，对延迟敏感的联网游戏和直播可以考虑这两档。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付可以随时切换吗？",
+          "AI_FAQ_QUESTION_3": "不同套餐的月流量差别大吗？",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入到客户端？",
+          "AI_FAQ_QUESTION_5": "打游戏选哪档套餐更合适？",
+          "AI_FAQ_TITLE": "果园吧常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fbbpnjb.cn",
+    "host": "fbbpnjb.cn"
+  },
+  "file_hashes": {
+    "index.html": "8ac4c703bf664e9842c45a8d1bca0087d69326f2a9c6c935c301a2587762accc",
+    "sitemap.xml": "0e9397e05882fc95b4bbb95bd55044bbaaf0f0f469ddce6d045142475fbf9f9d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a4a819079b1d2b91ceaf84f2ebb5c7a9a6ce5927bef6571dc12aac850a6fcc75",
+    "robots.txt": "32d9a7aa073fb4abe706a8165349d209b731f8c7729e3f3178f90155529810b2",
+    "1531658464e0ee9b954d055913c4156c.txt": "2eb1b7af16aafc7df450291a2b3932ede31faacf1d8ad9932742c43dfc7ba15b"
+  },
+  "revision": "9e6ef3dcbb29a4f3f7a060c8dc98a05af85e1ad10497373231b737aef1b69412"
+}
